@@ -26,13 +26,6 @@
             android:paddingTop="20dp"
             />
 
-        <Button
-            android:id="@+id/btnEnvio"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Revisar Contraseña"
-            />
-
         <TextView
             android:id="@+id/tvVerificacion"
             android:layout_width="wrap_content"
